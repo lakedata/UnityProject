@@ -12,9 +12,12 @@ Unity2D 게임 개발 (개인 프로젝트)
 사용 언어 : C#
 <img src="https://github.com/user-attachments/assets/5386ae0a-0d3f-4ec3-bacd-79c5b04eb7db" alt="Game Screenshot 1" width="500" />
 
-## 스크린샷
+## UX/UI
 <img src="https://github.com/user-attachments/assets/02424645-6ecc-48ed-88d9-7e8be4fa1db6" alt="Game Screenshot 1" width="300" />
 <img src="https://github.com/user-attachments/assets/85466392-d140-45da-bb9a-37ceea9ef92f" alt="Game Screenshot 2" width="300" />
+</br>
 <img src="https://github.com/user-attachments/assets/808def16-853e-4a3d-9314-5be851291109" alt="Game Screenshot 3" width="300" />
 <img src="https://github.com/user-attachments/assets/1b7fe8b7-74d0-456b-b844-0590760d24b5" alt="Game Screenshot 4" width="300" />
 
+## 수행일정
+<img src="https://github.com/user-attachments/assets/52e5c7b0-7aa2-4f7a-9e3b-3107ccb03fef" width="500" />
